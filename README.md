@@ -58,17 +58,17 @@ def max_marks(marks):
 
 i) # To find the maximum of marks using the list method sort.
 
-![Screenshot 2024-04-25 064229](https://github.com/Prakash-Chandran/FindMaximum/assets/147120899/94b0a2e2-566c-4b96-b030-35eaed52cb2d)
-
+![sort] (![sort](https://github.com/Prakash-Chandran/FindMaximum/assets/147120899/d82c4072-016f-4d34-a86c-3fb0939694af))
 
 ii) # To find the maximum marks using the list method max().
 
-![Screenshot 2024-04-25 064246](https://github.com/Prakash-Chandran/FindMaximum/assets/147120899/35d879ae-9cb1-45b9-ba7d-1a741d2a5b7f)
+![max] (![max](https://github.com/Prakash-Chandran/FindMaximum/assets/147120899/f45ac08a-687b-49c0-a669-c276470587ae))
 
 
 iii) # To find the maximum marks without using builtin functions.
 
-![Screenshot 2024-04-25 064300](https://github.com/Prakash-Chandran/FindMaximum/assets/147120899/a7073e57-37b5-4ff4-8ebd-2baf2cd44cca)
+![builtin] (![builtin](https://github.com/Prakash-Chandran/FindMaximum/assets/147120899/32ab172e-7818-4f80-83ee-07e31741078c))
+
 
 
 ## Result:
